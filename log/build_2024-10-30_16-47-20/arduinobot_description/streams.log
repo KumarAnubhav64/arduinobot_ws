@@ -1,0 +1,43 @@
+[0.049s] Invoking command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kumar-anubhav/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kumar-anubhav/arduinobot_ws/build/arduinobot_description -- -j12 -l12
+[0.116s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.762s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.002s] -- Added test 'lint_cmake' to check CMake code style
+[1.007s] -- Added test 'xmllint' to check XML markup files
+[1.009s] -- Configuring done (0.9s)
+[1.018s] -- Generating done (0.0s)
+[1.021s] -- Build files have been written to: /home/kumar-anubhav/arduinobot_ws/build/arduinobot_description
+[1.092s] Invoked command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kumar-anubhav/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kumar-anubhav/arduinobot_ws/build/arduinobot_description -- -j12 -l12
+[1.160s] Invoking command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kumar-anubhav/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kumar-anubhav/arduinobot_ws/build/arduinobot_description
+[1.182s] -- Install configuration: ""
+[1.183s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes
+[1.183s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/left_finger.STL
+[1.184s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/plate.STL
+[1.190s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/base_plate.STL
+[1.198s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/forward_drive_arm.STL
+[1.203s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/vertical_drive_arm.STL
+[1.206s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/round_plate.STL
+[1.207s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/link.STL
+[1.209s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/basement.STL
+[1.212s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/horizontal_arm.STL
+[1.217s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/right_finger.STL
+[1.217s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/servo_plate.STL
+[1.218s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/triangular_link.STL
+[1.221s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/claw_support.STL
+[1.223s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf
+[1.223s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot.urdf.xacro
+[1.224s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/package_run_dependencies/arduinobot_description
+[1.224s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/parent_prefix_path/arduinobot_description
+[1.225s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/ament_prefix_path.sh
+[1.225s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/ament_prefix_path.dsv
+[1.226s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/path.sh
+[1.226s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/path.dsv
+[1.226s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/local_setup.bash
+[1.227s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/local_setup.sh
+[1.227s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/local_setup.zsh
+[1.227s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/local_setup.dsv
+[1.228s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/package.dsv
+[1.228s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/packages/arduinobot_description
+[1.228s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/cmake/arduinobot_descriptionConfig.cmake
+[1.229s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/cmake/arduinobot_descriptionConfig-version.cmake
+[1.229s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/package.xml
+[1.233s] Invoked command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kumar-anubhav/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kumar-anubhav/arduinobot_ws/build/arduinobot_description

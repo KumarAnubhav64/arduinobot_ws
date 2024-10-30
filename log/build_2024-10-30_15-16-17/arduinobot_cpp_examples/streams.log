@@ -1,0 +1,34 @@
+[0.013s] Invoking command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kumar-anubhav/arduinobot_ws/src/arduinobot_cpp_examples -DCMAKE_INSTALL_PREFIX=/home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_examples
+[0.133s] -- The C compiler identification is GNU 13.2.0
+[0.258s] -- The CXX compiler identification is GNU 13.2.0
+[0.279s] -- Detecting C compiler ABI info
+[0.383s] -- Detecting C compiler ABI info - done
+[0.392s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.392s] -- Detecting C compile features
+[0.393s] -- Detecting C compile features - done
+[0.403s] -- Detecting CXX compiler ABI info
+[0.511s] -- Detecting CXX compiler ABI info - done
+[0.519s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.519s] -- Detecting CXX compile features
+[0.520s] -- Detecting CXX compile features - done
+[0.530s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.669s] -- Found Python3: /home/kumar-anubhav/anaconda3/bin/python3 (found version "3.12.4") found components: Interpreter 
+[0.822s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.845s] Traceback (most recent call last):
+[0.845s]   File "/opt/ros/jazzy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 22, in <module>
+[0.845s]     from catkin_pkg.package import parse_package_string
+[0.845s] ModuleNotFoundError: No module named 'catkin_pkg'
+[0.848s] [31mCMake Error at /opt/ros/jazzy/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.849s]   execute_process(/home/kumar-anubhav/anaconda3/bin/python3
+[0.849s]   /opt/ros/jazzy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.849s]   /home/kumar-anubhav/arduinobot_ws/src/arduinobot_cpp_examples/package.xml
+[0.849s] -- Configuring incomplete, errors occurred!
+[0.849s]   /home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_examples/ament_cmake_core/package.cmake)
+[0.849s]   returned error code 1
+[0.849s] Call Stack (most recent call first):
+[0.849s]   /opt/ros/jazzy/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.849s]   /opt/ros/jazzy/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.849s]   CMakeLists.txt:23 (ament_lint_auto_find_test_dependencies)
+[0.849s] 
+[0.849s] [0m
+[0.855s] Invoked command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_examples' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/kumar-anubhav/arduinobot_ws/src/arduinobot_cpp_examples -DCMAKE_INSTALL_PREFIX=/home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_examples
