@@ -1,0 +1,20 @@
+[0.017s] Invoking command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_exaamples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kumar-anubhav/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_exaamples -- -j12 -l12
+[0.259s] Invoked command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_exaamples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kumar-anubhav/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_exaamples -- -j12 -l12
+[0.289s] Invoking command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_exaamples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kumar-anubhav/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_exaamples
+[0.298s] -- Install configuration: ""
+[0.298s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/ament_index/resource_index/package_run_dependencies/arduinobot_cpp_exaamples
+[0.298s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/ament_index/resource_index/parent_prefix_path/arduinobot_cpp_exaamples
+[0.298s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/environment/ament_prefix_path.sh
+[0.298s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/environment/ament_prefix_path.dsv
+[0.299s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/environment/path.sh
+[0.299s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/environment/path.dsv
+[0.299s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/local_setup.bash
+[0.299s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/local_setup.sh
+[0.299s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/local_setup.zsh
+[0.300s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/local_setup.dsv
+[0.301s] -- Installing: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/package.dsv
+[0.301s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/ament_index/resource_index/packages/arduinobot_cpp_exaamples
+[0.301s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/cmake/arduinobot_cpp_exaamplesConfig.cmake
+[0.302s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/cmake/arduinobot_cpp_exaamplesConfig-version.cmake
+[0.302s] -- Up-to-date: /home/kumar-anubhav/arduinobot_ws/install/arduinobot_cpp_exaamples/share/arduinobot_cpp_exaamples/package.xml
+[0.303s] Invoked command in '/home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_exaamples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/kumar-anubhav/arduinobot_ws/install/arduinobot_py_examples:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/kumar-anubhav/arduinobot_ws/build/arduinobot_cpp_exaamples
